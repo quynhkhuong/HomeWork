@@ -1,0 +1,24 @@
+.banner {
+    background-color: green;
+}
+form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+form table {
+    display: inline-block;
+    border-collapse: collapse;
+}
+ th, tr, td {
+    border:1px solid black ;
+    text-align: left;
+}
+th {
+    text-align: center;
+}
+
+.button {
+    text-align: left;
+}
